@@ -188,3 +188,12 @@ a {
     border: 2px solid white;
 }
 
+.footer {
+    background: #1f2937;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
+    font-size: 18px;
+}
